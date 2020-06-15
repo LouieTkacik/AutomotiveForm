@@ -1,0 +1,9 @@
+c:\users\a225user\documents\visual studio 2017\Projects\TKACIKJoesAutomotive\TKACIKJoesAutomotive\obj\Debug\TKACIKJoesAutomotive.csprojResolveAssemblyReference.cache
+c:\users\a225user\documents\visual studio 2017\Projects\TKACIKJoesAutomotive\TKACIKJoesAutomotive\obj\Debug\TKACIKJoesAutomotive.Form1.resources
+c:\users\a225user\documents\visual studio 2017\Projects\TKACIKJoesAutomotive\TKACIKJoesAutomotive\obj\Debug\TKACIKJoesAutomotive.Properties.Resources.resources
+c:\users\a225user\documents\visual studio 2017\Projects\TKACIKJoesAutomotive\TKACIKJoesAutomotive\obj\Debug\TKACIKJoesAutomotive.csproj.GenerateResource.Cache
+c:\users\a225user\documents\visual studio 2017\Projects\TKACIKJoesAutomotive\TKACIKJoesAutomotive\bin\Debug\TKACIKJoesAutomotive.exe.config
+c:\users\a225user\documents\visual studio 2017\Projects\TKACIKJoesAutomotive\TKACIKJoesAutomotive\bin\Debug\TKACIKJoesAutomotive.exe
+c:\users\a225user\documents\visual studio 2017\Projects\TKACIKJoesAutomotive\TKACIKJoesAutomotive\bin\Debug\TKACIKJoesAutomotive.pdb
+c:\users\a225user\documents\visual studio 2017\Projects\TKACIKJoesAutomotive\TKACIKJoesAutomotive\obj\Debug\TKACIKJoesAutomotive.exe
+c:\users\a225user\documents\visual studio 2017\Projects\TKACIKJoesAutomotive\TKACIKJoesAutomotive\obj\Debug\TKACIKJoesAutomotive.pdb
